@@ -4,9 +4,7 @@ I'm Leandro.
 
 I'm a C# and Angular developer. :computer: 
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=leandro94costa&show_icons=true&theme=radical)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro94costa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=leandro94costa&show_icons=true&theme=radical) [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leandro94costa&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **leandro94costa/leandro94costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
