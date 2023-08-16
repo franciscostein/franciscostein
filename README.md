@@ -5,7 +5,7 @@ I'm Leandro.
 I'm a C# and Angular developer. :computer: 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leandro94costa&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=8&card_width=320&theme=radical" />
