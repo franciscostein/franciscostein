@@ -8,7 +8,7 @@ I'm a C# and Angular developer. :computer:
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=6&card_width=320&theme=radical" />
 </a>
 
 <!--
