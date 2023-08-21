@@ -4,6 +4,8 @@ I'm Leandro.
 
 I'm a C# and Angular developer. :computer: 
 
+- 🔭 I’m currently working on: https://github.com/leandro94costa/readers-corner
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true" />
 </a>
