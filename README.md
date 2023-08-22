@@ -6,14 +6,20 @@ I'm a C# and Angular developer. :computer:
 
 - 🔭 I’m currently working on: https://github.com/leandro94costa/readers-corner
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=leandro94costa&theme=radical)](https://git.io/streak-stats)
+<br>
+<div align="center">
+  
+  ## Stats
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=leandro94costa&theme=radical)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=8&card_width=320&theme=radical" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+</div>
 
 <!--
 **leandro94costa/leandro94costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
