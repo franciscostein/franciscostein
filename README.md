@@ -13,12 +13,15 @@ I'm a C# and Angular developer. :computer:
   
   [![GitHub Streak](https://streak-stats.demolab.com/?user=leandro94costa&theme=radical)](https://git.io/streak-stats)
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandro94costa&count_private=true&show_icons=true&theme=radical" />
+  <img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=leandro94costa&layout=compact&theme=radical" />
+  
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=leandro94costa&theme=radical&show=prs_merged,prs_merged_percentage&hide=issues,contribs&show_icons=true" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=leandro94costa&layout=compact&langs_count=8&card_width=320&theme=radical" />
-  </a>
+  </a> -->
 </div>
 
 <!--
