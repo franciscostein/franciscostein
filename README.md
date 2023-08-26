@@ -4,7 +4,7 @@ I'm Leandro.
 
 I'm a C# and Angular developer. :computer: 
 
-- 🔭 I’m currently working on: https://github.com/leandro94costa/readers-corner
+- 🔭 I’m currently working on: <a href="https://github.com/leandro94costa/readers-corner">Reader's Corner</a>
 
 <br>
 <div align="center">
