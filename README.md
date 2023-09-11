@@ -10,7 +10,7 @@ I'm a C# and Angular developer. :computer:
   
   ## Stats
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=franciscostein&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats-brown.vercel.app?user=franciscostein&theme=radical)](https://git.io/streak-stats)
 
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=franciscostein&count_private=true&show_icons=true&theme=radical" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscostein&layout=compact&theme=radical" />
