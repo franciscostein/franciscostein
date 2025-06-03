@@ -2,7 +2,7 @@
 
 I'm Leandro.
 
-I'm a C# and Angular developer. :computer: 
+I'm a .NET back-end developer. :computer: 
 
 - 🔭 I’m currently working on: <a href="https://github.com/franciscostein/RhinoForge">Rhino Forge</a>
 
